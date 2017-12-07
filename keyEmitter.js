@@ -1,4 +1,4 @@
-// Fast module that gives you a fast way of binding to
+// Module that gives you a fast way of binding to
 // many keypress events in human readable format
 //
 // Returns EventEmitter which trigger event in format
